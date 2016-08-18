@@ -1,10 +1,14 @@
 # Create Icons
 
+## Usage
+
 ```
 php create_icon.php image.png
 ```
 
-Creates set of icons for AppIcon
+## Descriptions
+
+Creates set of icons to be used for AppIcon using PHP GD image functions
 
 | Set              | Spec    | Size |
 |------------------|---------|-----:|
